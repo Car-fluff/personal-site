@@ -1,4 +1,4 @@
-# carolynng-site
+# personal-site
 
 Personal portfolio website for Carolyn Ng, hosted on Cloudflare Workers (static assets).
 
